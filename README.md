@@ -43,3 +43,9 @@ Committed to continuous learning and exploring new infrastructure technologies.
 **Location:** Ambato, Ecuador 🇪🇨
 **Institution:** Universidad Técnica de Ambato (UTA)
 **E-mail:** bpico3173@uta.edu.ec
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/korayma25/korayma25/gitascii/profiles/default/dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/korayma25/korayma25/gitascii/profiles/default/light.svg">
+  <img alt="GitAscii Profile" src="https://raw.githubusercontent.com/korayma25/korayma25/gitascii/profiles/default/dark.svg" width="100%">
+</picture>
